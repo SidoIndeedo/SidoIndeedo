@@ -1,8 +1,6 @@
 ## Hi, I'm Sidharth
 
-I am a Backend engineer, focused on building systems that solve real problems.\
-Experienced in Node.js, Express, MongoDB, and Python.\
-Currently working on AI-driven tools and implementing scalable backend services.
+I am a Backend engineer currently building systems that solve real world problems. I am currently working on AI driven tools while learning how to couple them together.
 
 ---
 
@@ -29,23 +27,14 @@ Currently working on AI-driven tools and implementing scalable backend services.
 
 ## Tech Stack
 
-**Backend:** Node.js, Express.js, MongoDB, Python
+**Backend:** Node.js, Express.js, MongoDB, Python\
 **Tools:** Docker, Linux
 
 ---
 
 ## Current Focus
 
-* Building a full-fledged AI chatbot for customer service
-* Learning scalability for prod
-* Gaining real-world experience through internship work
-
----
-
-## Contact
-
-* LinkedIn: https://www.linkedin.com/in/sidoindeedo/
-* Email: [sidharths1001@gmail.com](mailto:sidharths1001@gmail.com)
+I am building a chatbot for customer service which answers company's product related issues. While building, I am actively learning how to write good code so it won't explode, all of this while gaining real world experience through internship as a software engineer
 
 <!--
 **SidoIndeedo/SidoIndeedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
