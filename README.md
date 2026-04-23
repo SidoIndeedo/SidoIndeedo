@@ -1,4 +1,4 @@
-## Hi, I'm Sidharth 👋
+## Hi, I'm Sidharth
 
 I am a Backend engineer, focused on building systems that solve real problems.\
 Experienced in Node.js, Express, MongoDB, and Python.\
