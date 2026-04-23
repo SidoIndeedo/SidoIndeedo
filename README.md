@@ -16,7 +16,6 @@ Currently working on AI-driven tools and implementing scalable backend services.
 * Saves time spent searching for open source issues
   [View Project](https://github.com/SidoIndeedo/Open_Source_Issue_Recommender)
 
----
 
 ### Objective Email
 
